@@ -50,7 +50,6 @@ const everton = {
 <stop offset="1" stop-opacity="0.1"/>
 </linearGradient>
 </defs>
-
 </svg><img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"> </tb>
   <tb><img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:p6x 4px"></tb>
   <tb><img src="svg/dev/frameworks/bootstrap.svg" sanitize=1 alt="bootstrap" style="vertical-align:top; margin:6px 4px"></tb>
@@ -58,15 +57,7 @@ const everton = {
   <tb><img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" sanitize=1 style="vertical-align:top; margin:6px 4px"></tb>
   <tr><tb><img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"></tb>
   <tb><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></tb>
- 
   <tb><img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px"></tb></tr>
-  <tb><img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px"></tb>
-  <tr><tb><img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px"></tb>
-  <!-- <tb><img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:10px"></tb> -->
-  <!-- <tb><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px"></tb> -->
-  <!-- <tb><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px"></tb></tr> -->
 </p>
 
 
