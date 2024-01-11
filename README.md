@@ -15,19 +15,18 @@ const everton = {
     technologies: {
         frontEnd: {
             js: ["React", "Vue"],
-            css: ["Bootstrap", "SASS", "Bulma"]
+            css: ["Tailwind", "Bootstrap", "SASS", "Bulma"]
         },
         backEnd: {
             js: ["Node", "Express", "Nest.JS"],
             python: ["Django", "Flask"]
         },
         devOps: ["AWS"],
-        databases: ["MySql", "MongoDB"],
-        misc: ["Firebase"]
+        databases: ["MySql", "PostgreSQL", "MongoDB"],
+        misc: ["Firebase", "Supabase"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "Learning AWS",
-    funFact: "I love Cheescake"
+    currentProject: "Learning AWS"  
 };
 ```
 
